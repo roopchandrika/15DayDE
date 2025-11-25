@@ -42,9 +42,6 @@ Today focused on deepening my SQL fundamentals with analytics-driven SQL pattern
 * Compared OLTP-style vs OLAP-style queries
 * Documented all query scripts in a separate SQL file
 
-All the SQL scripts used today are stored in the repo under:
-📂 `/day02_advanced_sql/advanced_sql_practice.sql`
-
 ---
 
 ## 💡 **Quote of the Day**
