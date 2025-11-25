@@ -1,4 +1,4 @@
-# Day 3 — Data Modeling + Snowflake Setup  
+# Day 3 Data Modeling + Snowflake Setup  
 ### 15-Day Multi-Cloud Data Engineering Mastery Series
 
 Today I focused on **Snowflake-specific data modeling and incremental loading**, moving from simple table creation to patterns that look much closer to real-world production pipelines.
@@ -94,6 +94,6 @@ I can confidently describe a **watermark-based incremental load**:
 
 ## ✨ Quote of the Day
 
-> **“A scalable pipeline isn’t built in one big load — it’s built one smart increment at a time.”**
+> **“A scalable pipeline isn’t built in one big load, it’s built one smart increment at a time.”**
 
 ---
