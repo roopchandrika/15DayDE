@@ -38,4 +38,4 @@ Today’s focus was on taking PySpark beyond the basics by learning how to optim
 
 ## ✨ Quote of the Day
 
-> **"In data engineering, speed is good — but consistency and correctness are everything."**
+> **"In data engineering, speed is good but consistency and correctness are everything."**
