@@ -14,6 +14,21 @@ This journey is fully documented here, with
 
 ---
 
+# 📈 **Progress**
+
+**Days 1–5 are done** (Nov–Dec 2025). Days 6–15 are planned and not started yet.
+
+| Day | Topic | Status |
+|---|---|---|
+| 1 | [SQL Foundations + Healthcare Star Schema](day01_sql/) | ✅ Done |
+| 2 | [Advanced SQL + Optimization](day02_advanced_sql/) | ✅ Done |
+| 3 | [Snowflake Deep Dive + Incremental Loads](day03_snowflake_incremental/) | ✅ Done |
+| 4 | [PySpark Basics](day04_pyspark_basics/) | ✅ Done |
+| 5 | [PySpark Optimization + Delta Lake](day05_pyspark_optimization/) | ✅ Done |
+| 6–15 | Spark ↔ Snowflake, Airflow, CI/CD, Kafka, streaming ML, cloud ETL, data quality, monitoring, Power BI, system design | Planned |
+
+---
+
 # 🚀 **Project Theme: Real-Time Healthcare Analytics Platform**
 
 Throughout 15 days, I will build a complete **IoT-based Healthcare Data Engineering solution**, including:
@@ -229,14 +244,14 @@ By the end of this journey, I will have:
 
 ---
 
-# 🗂 **Repository Structure (Planned)**
+# 🗂 **Repository Structure** (folders for days 6–15 are planned)
 
 ```
 /day01_sql/
 /day02_advanced_sql/
 /day03_snowflake_incremental/
 /day04_pyspark_basics/
-/day05_delta_lake/
+/day05_pyspark_optimization/
 /day06_snowflake_connector/
 /day07_airflow/
 /day08_cicd/
